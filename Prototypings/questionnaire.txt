@@ -1,0 +1,24 @@
+Task 1: You have recently found out about this website and you're wondering what the Building Permit Values in Regina Saskatchewan is from 2011 to 2013. Look through the website to see what the graph of this is like.
+
+1. Were you able to find the graph showing the Building Permit Values?
+	- Please describe the difficulties you encountered. 
+
+2. How intuitive did you find the navigation? (Rate from 1 to 5)
+	- Were you able to easily understand how to move around the website and return to the homepage?
+	- Was there anything particularly confusing? If yes, please describe
+
+3. Was the information provided easy to understand?
+	
+
+
+4. Did you find the visuals appealing? (Rate from 1 to 5)
+	- Were the graphs and datas clear and easy to interpret?
+	- Did the website's design hinder your ability to find and understand information?
+
+
+
+5. How satisfied were you with the prototype? (Rate from 1 to 5) And why?
+
+   What were the likes and dislikes?
+
+   What improvements would you suggest overall?
