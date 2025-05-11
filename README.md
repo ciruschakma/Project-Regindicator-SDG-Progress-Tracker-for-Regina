@@ -16,4 +16,4 @@
 - Educational and non-profit organization
 
 # WordPress
-[WordPress Page](https://group-d.softsys.ca/)
+[WordPress Page](https://group-d.softsys.ca/) (Unfortunately this link has expired due to server from University update)
